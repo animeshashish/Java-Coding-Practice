@@ -17,10 +17,10 @@ public class EvenOddNumber {
 
         if (x % 2 == 0) {
             // If remainder is zero then the number is even number
-            System.out.println(x + " number is even number.");
+            System.out.println(x + " is even number.");
 
         } else { // If the remainder is not zero then the number is odd number
-            System.out.println(x + " is number is odd number.");
+            System.out.println(x + " is odd number.");
 
         }
 
